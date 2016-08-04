@@ -1,0 +1,58 @@
+_repo: The-King-of-Ireland-s-Son_3495
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Colum, Padraic
+    alias: Collumb, Patrick
+    birthdate: 1881
+    deathdate: 1972
+    gutenberg_agent_id: '893'
+    url: http://www.gutenberg.org/2009/agents/893
+    wikipedia: http://en.wikipedia.org/wiki/Padraic_Colum
+description: "The King of Ireland's Son is a children's novel published in Ireland\
+  \ in 1916 written by Padraic Colum, and illustrated by Willy Pogany. It is the story\
+  \ of the eldest of the King of Ireland's sons, and his adventures winning and then\
+  \ finding Fedelma, the Enchanter's Daughter, who after being won is kidnapped from\
+  \ him by the King of the Land of Mist. It is solidly based in Irish folklore, itself\
+  \ being originally a folktale.\nThis is one of the classics of Irish children's\
+  \ literature, its magical stories winding in and out of each other from the start,\
+  \ when the careless son goes out,\nHis hound at his heel,His hawk on his wrist,A\
+  \ brave steed to carry him whither he list,The blue sky above him,The green grass\
+  \ below him\nand meets an eccentric old man full of harmlessness and duplicity who\
+  \ invites him to a game of chess for whatever stake the winner might like. Characters\
+  \ like Flann, otherwise known as Gilly the Goat-Boy, the proud and heartless Lasarfhiona\
+  \ or Flame-of-Wine, the magical Spae-Woman and the vicious farmer who takes on Flann\
+  \ as a farmhand make this an entrancing, funny and always-remembered story.\nWritten\
+  \ in the years before 1916 in America by Colum, a close friend and colleague of\
+  \ some of those who led the Easter Rising, this was the ultimate calling-up of Irish\
+  \ mythology and legend, and, paired with James Stephens' Irish Fairy Tales, made\
+  \ many happy hours for children curled up before glowing turf fires to read by the\
+  \ light of Tilley lamps in the long winter evenings of the new Ireland.\nAnother\
+  \ evolution from the original folktale was written by Brendan Behan, published in\
+  \ Brendan Behan's Island, 1962, pp. 136–141.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2002-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3495'
+  wikidata: Q7744561
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcc 'GR'
+- !lcsh 'Tales -- Ireland'
+- !lcsh 'Fairy tales -- Ireland'
+- !lcsh 'Fairy tales'
+- !lcsh 'Folklore -- Ireland'
+- GITenberg
+tableOfContents: Fedelma, the enchanters's daughter -- When the king of the cats came
+  to king connal's dominion -- The sword of light and the unique tale, with as much
+  of the adventures of Gilly of the Goatskin as is given in "The cranskin book" --
+  The town of the red castle -- The king of the land of mist -- The house of crom
+  duv -- The spae-woman.
+title: The King of Ireland's Son
+url: http://www.gutenberg.org/ebooks/3495
+wikipedia:
+- https://en.wikipedia.org/wiki/The_King_of_Ireland%27s_Son
