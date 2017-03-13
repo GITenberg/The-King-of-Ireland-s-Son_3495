@@ -1,5 +1,8 @@
 _repo: The-King-of-Ireland-s-Son_3495
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Colum, Padraic
@@ -30,6 +33,8 @@ description: "The King of Ireland's Son is a children's novel published in Irela
   \ light of Tilley lamps in the long winter evenings of the new Ireland.\nAnother\
   \ evolution from the original folktale was written by Brendan Behan, published in\
   \ Brendan Behan's Island, 1962, pp. 136–141.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3495#The-King-of-Ireland-s-Son
 gutenberg_issued: '2002-10-01'
 gutenberg_type: Text
 identifiers:
